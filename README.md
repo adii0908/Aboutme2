@@ -15,11 +15,8 @@
       box-shadow: 0 0 10px gray;
       max-width: 600px;
       margin: auto;
-    }
-    img {
-      width: 150px;
-      border-radius: 50%;
-    }
+    
+    
   </style>
 </head>
 <body >
@@ -37,14 +34,14 @@
 
 <p>I believe in working hard, staying positive, and always learning. Thank you for visiting my page!</p>
     <h2>Contact Me</h2>
-    <form action="#"method="POST"
+    <form >
       <label for="email">Your Email:</label><br>
       <input type="email" id="email" name="email" required><br><br>
 
       <label for="message">Your Message:</label><br>
       <textarea id="message" name="message" rows="4" cols="40" required></textarea><br><br>
 
-      <input type="submit" value="Send">
+      <input type="submit" value="Send"></form>
     
   </div ><br><br>
   <marquee bgcolor=90ee90> You can also contact me on my instagram Id : _uk_adii_0908
