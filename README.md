@@ -34,7 +34,7 @@
 
 <p>I believe in working hard, staying positive, and always learning. Thank you for visiting my page!</p>
     <h2>Contact Me</h2>
-    <form >
+    < form     action="https://formsubmit.co/htmlcoderbytqb.com@gmail.com" method="POST">
       <label for="email">Your Email:</label><br>
       <input type="email" id="email" name="email" required><br><br>
 
